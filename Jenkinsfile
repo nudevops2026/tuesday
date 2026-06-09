@@ -7,7 +7,7 @@ pipeline
             {
                 steps
                 {
-                  git 'https://github.com/IntelliqDevops/maven.git'
+                  git 'https://github.com/nudevops2026/tuesday.git'
                 } 
             }
             stage('Build')
